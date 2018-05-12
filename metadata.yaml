@@ -1,0 +1,32 @@
+_repo: Poesias_39992
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Passos, A. A. Soares de (Antonio Augusto Soares)
+    aliases:
+    - De Passos, A. A. Soares (Antonio Augusto Soares)
+    - Soares de Passos, A. A. (Antonio Augusto)
+    - Passos, Antonio Augusto Soares de
+    - Passos, A. A. Soares de (António Augusto Soares)
+    birthdate: 1826
+    deathdate: 1860
+    gutenberg_agent_id: '40352'
+    url: http://www.gutenberg.org/2009/agents/40352
+    wikipedia: http://pt.wikipedia.org/wiki/Soares_de_Passos
+description: ''
+gutenberg_issued: '2012-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39992'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry -- 19th century'
+- !lcc 'PQ'
+title: Poesias
+url: http://www.gutenberg.org/ebooks/39992
