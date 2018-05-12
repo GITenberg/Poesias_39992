@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40352
     wikipedia: http://pt.wikipedia.org/wiki/Soares_de_Passos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39992#Poesias
 gutenberg_issued: '2012-06-13'
 gutenberg_type: Text
 identifiers:
